@@ -1,0 +1,20 @@
+C:\Users\koray.kavruk\source\repos\MayınTarlası\MayınTarlası\bin\Debug\MayınTarlası.exe.config
+C:\Users\koray.kavruk\source\repos\MayınTarlası\MayınTarlası\bin\Debug\MayınTarlası.exe
+C:\Users\koray.kavruk\source\repos\MayınTarlası\MayınTarlası\bin\Debug\MayınTarlası.pdb
+C:\Users\koray.kavruk\source\repos\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.csprojAssemblyReference.cache
+C:\Users\koray.kavruk\source\repos\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.Form1.resources
+C:\Users\koray.kavruk\source\repos\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.Properties.Resources.resources
+C:\Users\koray.kavruk\source\repos\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.csproj.GenerateResource.cache
+C:\Users\koray.kavruk\source\repos\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.csproj.CoreCompileInputs.cache
+C:\Users\koray.kavruk\source\repos\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.exe
+C:\Users\koray.kavruk\source\repos\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.pdb
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\MayınTarlası\MayınTarlası\bin\Debug\MayınTarlası.exe.config
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\MayınTarlası\MayınTarlası\bin\Debug\MayınTarlası.exe
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\MayınTarlası\MayınTarlası\bin\Debug\MayınTarlası.pdb
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.csproj.AssemblyReference.cache
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.Form1.resources
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.Properties.Resources.resources
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.csproj.GenerateResource.cache
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.csproj.CoreCompileInputs.cache
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.exe
+C:\Users\busen\Desktop\Yeni klasör (3)\Yeni klasör\MayınTarlası\MayınTarlası\obj\Debug\MayınTarlası.pdb
